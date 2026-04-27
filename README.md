@@ -59,3 +59,15 @@ Active development – formulations being optimized for scalability and cost eff
 For collaboration or partnerships:
 **Brand:** The Lumen Care  
 **Website:** https://thelumencare.com
+
+## 🌐 Live Store
+
+The Lumen Care is actively selling via Shopify:
+
+👉 https://thelumencare.com
+
+### Features
+- Fully responsive storefront
+- Product pages with ingredient breakdown
+- Secure checkout
+- Conversion-optimized design
