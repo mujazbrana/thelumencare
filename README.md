@@ -28,3 +28,34 @@ This repository contains:
 
 ## 📂 Repository Structure
 # thelumencare
+
+## 🏭 Manufacturing Process (Summary)
+
+1. Prepare surfactant base (SCI + CAPB)
+2. Melt fatty alcohols and conditioning agents
+3. Combine phases under controlled heat (70–75°C)
+4. Add actives below 45°C
+5. Mold and cure for 24–48 hours
+
+## 📊 Quality Standards
+
+- pH: 5.0 – 5.5
+- Hardness: Stable at 30°C ambient
+- Foam profile: Dense, creamy lather
+- Breakage resistance: High
+
+## 🌱 Sustainability
+
+- Plastic-free format
+- Reduced water usage
+- Concentrated formulation
+
+## 📌 Status
+
+Active development – formulations being optimized for scalability and cost efficiency.
+
+## 🤝 Contact
+
+For collaboration or partnerships:
+**Brand:** The Lumen Care  
+**Website:** https://thelumencare.com
