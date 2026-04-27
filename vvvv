@@ -1,0 +1,39 @@
+## 🛒 E-commerce Stack
+
+- Platform: Shopify
+- Theme: Custom / Modified Theme
+- Payments: Shopify Payments / Stripe
+- Integrations:
+  - Analytics (Meta Pixel, Google Analytics)
+  - Email Marketing (Klaviyo / etc.)
+  - Conversion tracking
+
+## ⚙️ Store Optimization
+
+- Mobile-first design
+- Fast load times
+- Optimized product pages
+- SEO-friendly structure
+## 📸 Store Preview
+
+![Homepage](assets/homepage.png)
+![Product Page](assets/product.png)
+# Shopify Setup
+
+## Store Structure
+- Homepage
+- Product pages
+- Collections
+
+## Key Products
+- Solid Shampoo Bar
+
+## Conversion Strategy
+- Strong product storytelling
+- Ingredient transparency
+- Visual branding
+
+## Future Improvements
+- Subscription model
+- Bundles
+- Upsells
